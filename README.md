@@ -13,6 +13,9 @@ The project is organized in a Jupyter Notebook (`Student Engagement & Feedback A
    - Calculates overall average completion rate across courses
    - Identifies courses with highest and lowest average engagement time
    - Examines how engagement differs by age group and location
+   - Identifies correlation between completion rate and feedback rating
+   - Identified top 3 student segments based on engagement and satisfaction.
+
 
 ## 📊 Key Findings
 
