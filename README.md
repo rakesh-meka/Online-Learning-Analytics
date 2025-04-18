@@ -7,7 +7,7 @@ The project is organized in a Jupyter Notebook (`Student Engagement & Feedback A
 
 1. **Data Loading & Merging**
    - Loads three datasets: `students.csv`, `course_activity.csv`, and `feedback.csv`
-   - Merges the datasets into a final combined dataset `Students_Cleaned_Data.csv`
+   - Merges the datasets into a final combined dataset `Student Engagement & Feedback Analysis.csv`
 
 2. **Exploratory Data Analysis (EDA)**
    - Calculates overall average completion rate across courses
