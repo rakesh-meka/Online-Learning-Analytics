@@ -3,7 +3,7 @@
 This project analyzes student course engagement and feedback data to provide insights into learning patterns and effectiveness. The analysis includes merging datasets, exploratory data analysis (EDA), and visualization of key metrics like course completion rates and engagement times.
 
 ## 📂 Project Structure
-The project is organized in a Jupyter Notebook (`Course_Insights.ipynb`) with the following main sections:
+The project is organized in a Jupyter Notebook (`Student Engagement & Feedback Analysis.ipynb`) with the following main sections:
 
 1. **Data Loading & Merging**
    - Loads three datasets: `students.csv`, `course_activity.csv`, and `feedback.csv`
